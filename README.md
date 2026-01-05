@@ -460,7 +460,6 @@ Need help with AWS cost optimization for your organization?
 Cloud Solutions Professional | AWS Cost Optimization Specialist
 
 - **Email:** abhishek071700@gmail.com
-- **LinkedIn:** [linkedin.com/in/abhishek-pandey](https://linkedin.com/in/abhishek-pandey)
 - **Location:** Noida, Uttar Pradesh, India
 
 **Services Offered:**
